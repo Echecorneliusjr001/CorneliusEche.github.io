@@ -1,5 +1,5 @@
 A website Portfolio by Sci-Analyst Cornel
-CorneliusEche.github.io | @CorneliusEche
+Echecorneliusjr001.github.io | @CorneliusEche
 
 
 
@@ -15,7 +15,7 @@ you can use it for pretty much whatever.
 (* = not included)
 
 CE
-CorneliusEche.github..io | @CorneliusEche
+Echecornelius001.github.io | @CorneliusEche
 
 
 Credits:
