@@ -15,16 +15,20 @@
 
 		/* Style your circular frame */
         .circular-frame {
-            width: 350px;
+            width: 300px;
             height: 400px;
             overflow: hidden;
             border-radius: 50%;
             margin: auto; /* Center the circular frame horizontally */
+			position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Center vertically */
         }
 
         /* Style your image within the circular frame */
         .circular-frame img {
-            width: 70%;
+            width: 80%;
             height: 100%;
             object-fit: cover;
             border-radius: 50%;
