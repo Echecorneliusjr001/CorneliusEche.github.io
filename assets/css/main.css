@@ -3306,7 +3306,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 50vh;
+		min-height: 30vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3449,7 +3449,7 @@ input, select, textarea {
 
 			#intro {
 				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 50vh;
+				min-height: 45vh;
 			}
 
 				#intro p br {
@@ -3466,7 +3466,7 @@ input, select, textarea {
 
 			#intro {
 				padding: 3rem 3rem 4rem 2rem ;
-				min-height: 65vh;
+				min-height: 60vh;
 			}
 
 				#intro h1 {
